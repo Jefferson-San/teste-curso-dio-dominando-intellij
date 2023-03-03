@@ -16,6 +16,14 @@ public class TiposVariaveis {
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
         short numeroCurto2 = (short) numeroNormal;
+
+        //uma constante no java é feita com a palavra chave > final < seguida do
+        //seu >tipo nomeDavariavel = valor;<
+        final int NUM_CONST = 12;
+
+        final String name = "Jefferson Santos";
+
+
     }
 
 }
