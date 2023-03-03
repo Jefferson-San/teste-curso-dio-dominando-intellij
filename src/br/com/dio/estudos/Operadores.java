@@ -28,11 +28,6 @@ public class Operadores {
 
         System.out.println(resultado);*/
 
-        boolean number = false;
-        boolean numberTwo = true;
 
-        if (number || numberTwo) {
-            System.out.println("Uma das variaveis é verdadeira");
-        }
     }
 }
