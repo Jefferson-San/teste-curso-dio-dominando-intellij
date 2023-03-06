@@ -1,6 +1,6 @@
 package br.com.dio.estudos.metodos.projetoSmartTv;
 
-public class Usiario {
+public class Usuario {
     public static void main(String[] args) {
         SmartTV smartTV = new SmartTV();
 
